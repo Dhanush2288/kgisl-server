@@ -1,4 +1,4 @@
 module.exports ={
-    dbUrl:"mongodb+srv://Dhanush:JPJSLOMANANAPR@cluster0.8jpho.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    dbUrl:"Please paste the dburl here",
     port:9999
 }; 
